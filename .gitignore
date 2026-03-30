@@ -2,6 +2,10 @@ node_modules/
 
 # Tailwind / build
 public/css/
+public/uploads/*.jpg
+public/uploads/*.jpeg
+public/uploads/*.gif
+public/uploads/*.png
 dist/
 build/
 

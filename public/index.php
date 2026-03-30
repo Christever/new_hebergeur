@@ -8,7 +8,6 @@
     <link href="css/style.css" rel="stylesheet" />
     <link href="css/all.min.css" rel="stylesheet" />
     <link rel="icon" type="image/png" href="images/favicon.png">
-    <!-- <link href="css/font_awasome_all.min.css" rel="stylesheet"/> -->
 </head>
 
 <body>
@@ -22,7 +21,7 @@
             <i class="fas fa-paper-plane"></i>
         </h1>
 
-        <form method="post" action="" enctype="multipart/form-data">
+        <form method="post" action="../src/upload.php" enctype="multipart/form-data">
             <p>
                 <label class="text-lg text-center mb-2" for="image">Sélectionnez votre fichier</label>
                 <input type="file" name="image" id="image">
