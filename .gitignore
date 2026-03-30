@@ -1,0 +1,17 @@
+node_modules/
+
+# Tailwind / build
+public/css/
+dist/
+build/
+
+# Lock files
+package-lock.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# log / temp
+*.log
+tmp/
